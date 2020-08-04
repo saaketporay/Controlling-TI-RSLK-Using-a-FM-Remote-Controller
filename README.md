@@ -19,4 +19,7 @@ Pin 4: (P3.3) on launchpad
 
 <img src='https://hackster.imgix.net/uploads/attachments/1168878/20200803_195325_RP8lyjMOnw.jpg?auto=compress%2Cformat&w=740&h=555&fit=max' title='Picture2' width='' alt='Picture2' />
 
-### 3. Push the code the Launchpad and enjoy!
+### 3. Push the code to the Launchpad and enjoy!
+
+https://youtu.be/FPdUeyR-beM - TI-RSLK Proportional Remote Control
+https://youtu.be/uUxL7ofhXHo - RC TI-RSLK In Action
